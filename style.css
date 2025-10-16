@@ -1,0 +1,22 @@
+header{
+    height: 80px;
+    background-color: black;
+    display: flex;
+}
+li{
+    color: white;
+    list-style-type: none;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    padding: 40px 20%;
+    margin: 0px;
+    display: flex;
+}
+body{
+    margin: 0px;
+}
+.logo-ls{
+    padding-left: 5opx;
+}
